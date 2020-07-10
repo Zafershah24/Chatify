@@ -2,4 +2,4 @@
 
 A new Flutter Chat application using Firebase Authentication and FireStore
 
-![2020_07_09_15_52_02 1](https://user-images.githubusercontent.com/32811341/87032174-cf7c3100-c201-11ea-8743-91d4ddc13d2e.gif)
+![2020-07-10-19-34-17](https://user-images.githubusercontent.com/32811341/87163693-62da6280-c2e5-11ea-8645-681d0a93dbc0.GIF)
